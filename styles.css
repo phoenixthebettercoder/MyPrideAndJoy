@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+header{
+ 
+    background-image:url("space.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 60px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    
+}
+nav{
+ float: left;
+}
+.card{
+    float:left;
+    margin: 5%;
+vertical-align: top;
+}
